@@ -1,4 +1,3 @@
-
 import { Avatar as AntdAvatar, AvatarProps } from 'antd';
 import { getNameInitials } from '../utilities';
 
